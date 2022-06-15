@@ -1,11 +1,11 @@
 {
-    "name": "advance_aquatics_admin",
-    "short_name": "advance_aquatics_admin",
+    "name": "Advance Aquatics Admin",
+    "short_name": "Advance Aquatics Admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Advance Aquatics Admin Panel",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

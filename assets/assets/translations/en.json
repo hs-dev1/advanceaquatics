@@ -160,7 +160,6 @@
   "enter_the_title": "Enter the Title",
   "please_enter_the_name": "Please enter the name",
   "task_name": "Task Name",
-
   "employee_name": "Employee Name",
   "customer_name": "Customer Name",
   "customer_number": "Customer Number",
@@ -171,6 +170,10 @@
   "enter_time": "Enter time",
   "enter_your_registered_email_to_get_change_password_link": "Enter your registered email to get change password link",
   "please_enter_your_old_password": "Please enter your old password",
-
+  "location": "location",
+  "enter_location": "Enter location",
+  "select": "Select",
+  "select_task": "Select task",
+  "customer_location": "Customer location",
   "": ""
 }

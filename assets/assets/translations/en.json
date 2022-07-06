@@ -141,7 +141,7 @@
   "total_tasks_completed": "Total Tasks Completed",
   "basic_detail": "Basic Detail",
   "change_password": "Change Password",
-  "edit_profile": "Edit profile",
+  "edit_profile": "Edit Profile",
   "update": "Update",
   "check_list": "Checklist",
   "create_task": "Create Task",
@@ -157,6 +157,9 @@
   "date": "Date",
   "customer": "Customer",
   "customer_detail": "Customer Details",
+  "assign_task_table": "Assign Task Table",
+
+  "task_detail": "Task Details",
   "enter_the_title": "Enter the Title",
   "please_enter_the_name": "Please enter the name",
   "task_name": "Task Name",
